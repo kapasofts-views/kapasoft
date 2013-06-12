@@ -98,7 +98,7 @@
                     <h3 class="text-center">Real Time Features</h3>
                     <p>
                         Using cutting edge technologies, we build interactive web features to improve conversion rate and increase your sales
-                    <a class="more-link" href="services.html">
+                    <a class="more-link" href="/web-development-services">
                         <strong>
                             Read
                         </strong>
@@ -117,7 +117,7 @@
                     <p>
                        Integrate your application with software as service (SaaS) such as Strip, MailChimp, SalesForce and others to save your money while adding the necessary competitive advantage to succeed
                     </p>
-                    <a class="more-link" href="services.html">
+                    <a class="more-link" href="/web-development-services">
                         <strong>
                             Read
                         </strong>
@@ -136,7 +136,7 @@
                     <p>
                     Have multiple interfaces each with specific SEO strategy while tailored to different client segment all of which is easy managed from single back office application
                     </p>
-                    <a class="more-link" href="services.html">
+                    <a class="more-link" href="/web-development-services">
                         <strong>
                             Read
                         </strong>
