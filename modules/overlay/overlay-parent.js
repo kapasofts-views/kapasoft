@@ -448,7 +448,7 @@ Drupal.overlay.eventhandlerAlterDisplacedElements = function (event) {
     // There seems to be absolutely no way to detect whether the scrollbar
     // is on the left side in Opera; always expect scrollbar to be on the left.
     if ($.browser.opera) {
-      Drupal.overlay.leftSidedScrollbarOffset = document.documentElement.clientWidth - this.iframeWindow.document.documentElement.clientWidth + this.iframeWindow.document.documentElement.clientLeft;
+        Drupal.overlay.leftSidedScrollbarOffset = document.documentElement.clientWidth - this.iframeWindow.document.documentElement.clientWidth + this.iframeWindow.document.documentElement.clientLeft;
     }
     else if (this.iframeWindow.document.documentElement.clientLeft) {
       Drupal.overlay.leftSidedScrollbarOffset = this.iframeWindow.document.documentElement.clientLeft;
@@ -901,7 +901,9 @@ Drupal.overlay.makeDocumentUntabbable = function (context) {
   // child document. The duplicate copy in the underlying document is only for
   // assisting screen-reader users navigating the document with reading commands
   // that follow markup order rather than tab order.
-  if (jQuery.browser.msie && parseInt(jQuery.browser.version, 10) < 8) {
+//  if (jQuery.browser.msie && parseInt(jQuery.browser.version, 10) < 8) {
+    //Fix Added Jun, 2013 Margots .browser depriciated and removed in Jquery 1.9
+   if (navigator.userAgent.match(/msie/i) && navigator.userAgent.match(/7/)) {
     $('#overlay-disable-message a', context).attr('tabindex', -1);
     return;
   }
@@ -944,7 +946,8 @@ Drupal.overlay.makeDocumentTabbable = function (context) {
   // Manipulating tabindexes is unacceptably slow in IE6 and IE7. In those
   // browsers, the underlying page was never made unreachable via tab, so
   // there is no work to be done here.
-  if (jQuery.browser.msie && parseInt(jQuery.browser.version, 10) < 8) {
+//  if (jQuery.browser.msie && parseInt(jQuery.browser.version, 10) < 8) {
+    if (navigator.userAgent.match(/msie/i) && navigator.userAgent.match(/7/)){
     return;
   }
 
@@ -954,7 +957,8 @@ Drupal.overlay.makeDocumentTabbable = function (context) {
   // Make the underlying document tabbable again by removing all existing
   // tabindex attributes.
   var $tabindex = $('[tabindex]', context);
-  if (jQuery.browser.msie && parseInt(jQuery.browser.version, 10) < 8) {
+//  if (jQuery.browser.msie && parseInt(jQuery.browser.version, 10) < 8) {
+    if (navigator.userAgent.match(/msie/i) && navigator.userAgent.match(/7/)){
     // removeAttr('tabindex') is broken in IE6-7, but the DOM function
     // removeAttribute works.
     var i;
