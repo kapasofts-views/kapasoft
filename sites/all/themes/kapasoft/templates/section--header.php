@@ -10,7 +10,9 @@
                 <h1 class="brand">
                     <a href="index.html">
                         KAPA<span class="light">soft</span></a>
+                    <div id="kapasoft-slogan">keen web solutions</div>
                 </h1>
+
                 <div class="nav-collapse collapse">
                     <ul class="nav pull-right">
                         <li class=""><a href="/">Home</a></li>

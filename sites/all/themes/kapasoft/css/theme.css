@@ -3010,3 +3010,13 @@ ul.inline li {
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true ,src='images/assets/landscapes/landscape-5-2000x1200.jpg',sizingMethod=scale);
   -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader( enabled='true', src='images/assets/landscapes/landscape-5-2000x1200.jpg',sizingMethod='scale')";
 }
+
+
+/******Kapasoft********/
+div#kapasoft-slogan{
+   /*display: bock !important;*/
+   position: relative;
+   margin-top:-8px;
+   font-size:50%;
+   font-weight: normal;
+}

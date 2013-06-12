@@ -8,6 +8,7 @@
               <span class="light">
                 Soft
               </span>
+                        <div id="kapasoft-slogan">keen web solutions</div>
                     </h3>
                     <p>
                         +1 651.334.6333  |  info@kapasoft.com
