@@ -57,13 +57,16 @@
             <div class="span9">
                 <blockquote class="pull-right">
                     <p class="lead">
-                        Margots exceeded our expectations. His creative designs were so much better
-                        than the templates out there we used before. We wanted our new website to
-                        look class of its own and now it does. Thank you Margots
+                        When we needed a new web page we went to Margots at kapasoft.com because we needed someone
+                        who understood our needs, was willing to work with all of the different groups at our church,
+                        and also had the design and technical smarts that we lacked.  Margots design met all of our
+                        visual needs, was easy to maintain, and could be easily modified or changed by our people.
+                        Margots also provided the kind of help and training for our members that made our new web
+                        page an ever-changing resource for our congregation that everyone now points to with pride.
                     </p>
                     <small>
-                        Lawrence Tan
-                        <cite title="Source Title">LTA Insurance</cite>
+                        Gerold Luss, President of Church Board
+                        <cite title="Source Title">Lat. Ev. Lutheran Church of Minneapolis & St. Paul</cite>
                     </small>
                 </blockquote>
             </div>
@@ -77,64 +80,66 @@
         </div>
     </div>
 </section>
-<!-- Testimonials -->
-<!--<section class="section section-alt section-padded">-->
-<!--    <div class="container-fluid">-->
-<!--        <div class="section-header">-->
-<!--            <h1>-->
-<!--                Want-->
-<!--                <small class="light">more?</small>-->
-<!--            </h1>-->
-<!--        </div>-->
-<!--        <ul class="inline row-fluid">-->
-<!--            <li class="span4">-->
-<!--                <div class="well blockquote-well">-->
-<!--                    <blockquote>-->
-<!--                        <p>[..]We were surprised to learn different alternatives to save time and money on our daily operations.</p>-->
-<!--                        <small>-->
-<!--                            Tatjana Kapaca-->
-<!--                            <cite title="Source Title">B&B Sidrabi</cite>-->
-<!--                        </small>-->
-<!--                    </blockquote>-->
-<!--                    <div class="round-box box-medium">-->
-<!--                  <span class="box-inner">-->
-<!--                    --><?php //print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/bk-texture-300x300.jpg">';?>
-<!--                  </span>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </li>-->
-<!--            <li class="span4">-->
-<!--                <div class="well blockquote-well">-->
-<!--                    <blockquote>-->
-<!--                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>-->
-<!--                        <small>-->
-<!--                            Jim Dow-->
-<!--                            <cite title="Source Title">company co</cite>-->
-<!--                        </small>-->
-<!--                        <div class="round-box box-medium">-->
-<!--                    <span class="box-inner">-->
-<!--                      --><?php //print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/bk-texture-300x300.jpg">';?>
-<!--                    </span>-->
-<!--                        </div>-->
-<!--                    </blockquote>-->
-<!--                </div>-->
-<!--            </li>-->
-<!--            <li class="span4">-->
-<!--                <div class="well blockquote-well">-->
-<!--                    <blockquote>-->
-<!--                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>-->
-<!--                        <small>-->
-<!--                            Dog doe-->
-<!--                            <cite title="Source Title">doghouse inc</cite>-->
-<!--                        </small>-->
-<!--                        <div class="round-box box-medium">-->
-<!--                    <span class="box-inner">-->
-<!--                     --><?php //print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/bk-texture-300x300.jpg">';?>
-<!--                    </span>-->
-<!--                        </div>-->
-<!--                    </blockquote>-->
-<!--                </div>-->
-<!--            </li>-->
-<!--        </ul>-->
-<!--    </div>-->
-<!--</section>-->
+ Testimonials
+<section class="section section-alt section-padded">
+    <div class="container-fluid">
+        <div class="section-header">
+            <h1>
+                Want
+                <small class="light">more?</small>
+            </h1>
+        </div>
+        <ul class="inline row-fluid">
+            <li class="span4">
+                <div class="well blockquote-well">
+                    <blockquote>
+                        <p>We were surprised to learn different alternatives to save time and money on our daily operations.</p>
+                        <small>
+                            Tatjana Kapaca
+                            <cite title="Source Title">B&B Sidrabi</cite>
+                        </small>
+                    </blockquote>
+                    <div class="round-box box-medium">
+                  <span class="box-inner">
+                    <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/bk-texture-300x300.jpg">';?>
+                  </span>
+                    </div>
+                </div>
+            </li>
+            <li class="span4">
+                <div class="well blockquote-well">
+                    <blockquote>
+                        <p>His creative designs were so much better
+                            than the templates out there we used before. We wanted our new website to
+                            look class of its own and now it does. Thank you Margots</p>
+                        <small>
+                            Lawrence Tan
+                            <cite title="Source Title">LTA Insurance</cite>
+                        </small>
+                        <div class="round-box box-medium">
+                    <span class="box-inner">
+                      <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/bk-texture-300x300.jpg">';?>
+                    </span>
+                        </div>
+                    </blockquote>
+                </div>
+            </li>
+            <li class="span4">
+                <div class="well blockquote-well">
+                    <blockquote>
+                        <p>...stylish, practical and fear price</p>
+                        <small>
+                            Al Winquist
+                            <cite title="Source Title">AL Ideas</cite>
+                        </small>
+                        <div class="round-box box-medium">
+                    <span class="box-inner">
+                     <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/bk-texture-300x300.jpg">';?>
+                    </span>
+                        </div>
+                    </blockquote>
+                </div>
+            </li>
+        </ul>
+    </div>
+</section>

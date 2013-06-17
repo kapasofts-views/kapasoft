@@ -23,6 +23,7 @@
     print '}());';
    print '</script>';?>
   <?php print '<script src="http://'.$interfaceConfig['driver_url'].':'.$interfaceConfig['driver_port'].'/socket.io/socket.io.js"></script>';?>
+  <?php print '<script>var socket = io.connect(MIN_CONFIG.getDriverUrl());</script>';?>
   <?php print $styles; ?>
   <?php print $scripts; ?>
   <!-- HTML5 element support for IE6-8 -->
@@ -45,7 +46,7 @@
 </div>
 <?php include './'. path_to_theme() .'/templates/section--footer.php';?>
   <?php //print '<script src="'.base_path() . path_to_theme() .'/js/jquery.min.js" type="text/javascript"></script>';?>
-  <?php print '<script src="'.base_path() . path_to_theme() .'/js/bootstrap.js" type="text/javascript"></script>';?>
+  <?php //print '<script src="'.base_path() . path_to_theme() .'/js/bootstrap.js" type="text/javascript"></script>';?>
   <?php print '<script src="'.base_path() . path_to_theme() .'/js/jquery.flexslider-min.js" type="text/javascript"></script>';?>
   <?php print '<script src="'.base_path() . path_to_theme() .'/js/jquery.tweet.js" type="text/javascript"></script>';?>
   <?php print '<script src="'.base_path() . path_to_theme() .'/js/jquery.fancybox.pack.js" type="text/javascript"></script>';?>

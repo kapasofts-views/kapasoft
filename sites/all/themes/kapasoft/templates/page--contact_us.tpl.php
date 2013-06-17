@@ -4,6 +4,7 @@
 <!-- 404 content -->
 <a href="#" name="contact_form"></a>
 <section  class="section section-padded">
+    <script type="text/javascript" src="http://kapasoft.com/repos/backbone/contact/main/contact.min.js"></script>
     <div class="container-fluid">
         <div class="section-header">
             <h1>
@@ -16,35 +17,7 @@
         </p>
         <hr>
         <div class="row-fluid">
-            <div class="span6">
-                <form class="contact-form" id="contactForm" novalidate="">
-                    <div class="controls controls-row">
-                        <div class="control-group span6">
-                            <input class="span12" name="name" placeholder="your name" type="text">
-                        </div>
-                        <div class="control-group span6">
-                            <input class="span12" name="email" placeholder="your email" type="email">
-                        </div>
-                    </div>
-                    <div class="controls controls-row">
-                        <div class="control-group span12">
-                            <input class="span12" name="subject" placeholder="subject" type="text">
-                        </div>
-                    </div>
-                    <div class="controls controls-row">
-                        <div class="control-group span12">
-                            <textarea class="span12" name="message" placeholder="I want to talk about... " rows="5"></textarea>
-                        </div>
-                    </div>
-                    <div class="controls controls-row">
-                        <div class="control-group span12">
-                            <button class="btn btn-primary" name="submitButton" type="submit">
-                                Send Message
-                            </button>
-                        </div>
-                    </div>
-                </form>
-                <div id="messages"></div>
+            <div class="span6" id="app-contact" >
             </div>
             <div class="span6 contact-details">
                 <ul class="icons">

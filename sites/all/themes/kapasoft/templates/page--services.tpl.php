@@ -3,7 +3,6 @@
         <div class="super-hero-unit">
             <figure>
                 <?php print '<img src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/landscapes/landscape-1-1250x300.jpg" alt="some image">'; ?>
-<!--                <img alt="some image" src="images/assets/landscapes/landscape-1-1250x300.jpg">-->
                 <figcaption class="flex-caption">
                     <h1 class="super animated fadeinup delayedmore">
                         Services
@@ -31,8 +30,7 @@
                 <div class="round-box box-big">
                 <span class="box-inner">
                     <?php print '<img alt="some image" class="img-circle"  src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/landscapes/landscape-1-300x300.jpg">'; ?>
-<!--                    <img alt="some image" class="img-circle" src="images/assets/landscapes/landscape-1-300x300.jpg">-->
-                  <i class="icon-beaker"></i>
+                  <i class="icon-heart"></i>
                 </span>
                 </div>
                 <h2 class="text-center">Web Applications</h2>
@@ -44,8 +42,7 @@
                 <div class="round-box box-big">
                 <span class="box-inner">
                     <?php print '<img alt="some image" class="img-circle"  src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/landscapes/landscape-2-e-300x300.jpg">'; ?>
-<!--                    <img alt="some image" class="img-circle" src="images/assets/landscapes/landscape-2-e-300x300.jpg">-->
-                  <i class="icon-cloud"></i>
+                  <i class="icon-wrench"></i>
                 </span>
                 </div>
                 <h2 class="text-center">Real Time Features</h2>
@@ -57,8 +54,7 @@
                 <div class="round-box box-big">
                 <span class="box-inner">
                     <?php print '<img alt="some image" class="img-circle"  src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/landscapes/landscape-3-300x300.jpg">'; ?>
-<!--                    <img alt="some image" class="img-circle" src="images/assets/landscapes/landscape-3-300x300.jpg">-->
-                  <i class="icon-comments"></i>
+                  <i class="icon-cog"></i>
                 </span>
                 </div>
                 <h2 class="text-center">SaaS Integration</h2>
@@ -130,7 +126,6 @@
             </div>
             <div class="span6">
                 <?php print '<img alt="some image" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/devices/imac-1-kapasoft.png">'; ?>
-<!--                <img alt="some image" src="images/assets/devices/imac-1.png">-->
             </div>
         </div>
     </div>
@@ -149,7 +144,7 @@
         </p>
         <div class="text-center">
             <div class="btn btn-large btn-primary">
-                <a href="/contact-web-design#contact_form">Lets connect &nbsp;</a>
+                <a href="/contact-web-design">Lets connect &nbsp;</a>
                 <i class="icon-lightbulb"></i>
             </div>
         </div>
@@ -176,7 +171,6 @@
                         <div class="round-box box-medium">
                     <span class="box-inner">
                         <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/woman-1-300x300.jpg">'; ?>
-<!--                        <img alt="some image" class="img-circle" src="images/assets/people/woman-1-300x300.jpg">-->
                     </span>
                         </div>
                     </blockquote>
@@ -193,7 +187,6 @@
                         <div class="round-box box-medium">
                     <span class="box-inner">
                         <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/man-2-300x300.jpg">'; ?>
-<!--                        <img alt="some image" class="img-circle" src="images/assets/people/man-3-300x300.jpg">-->
                     </span>
                         </div>
                     </blockquote>
@@ -202,15 +195,15 @@
             <li class="span4">
                 <div class="well blockquote-well">
                     <blockquote>
-                        <p>[..]We were surprised to learn different alternatives to save time and money on our daily operations </p>
+                        <p>[..]Margots design met all of our
+                            visual needs, was easy to maintain, and could be easily modified or changed by our people. </p>
                         <small>
-                            Tatjana Kapaca,
-                            <cite title="Source Title">B&B Sidrabi</cite>
+                            Gerold Luss,
+                            <cite title="Source Title">Lat. Ev. Lutheran Church of Minneapolis & St. Paul</cite>
                         </small>
                         <div class="round-box box-medium">
                     <span class="box-inner">
                         <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/woman-3-300x300.jpg">'; ?>
-<!--                        <img alt="some image" class="img-circle" src="images/assets/people/man-4-300x300.jpg">-->
                     </span>
                         </div>
                     </blockquote>

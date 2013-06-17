@@ -22,7 +22,6 @@
                     <div class="super-hero-unit">
                         <figure>
                             <?php print '<img src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/landscapes/landscape-3-1250x420.jpg" alt="some image">'; ?>
-<!--                            <img alt="some image" src="../img/kapasoft/assets/landscapes/landscape-3-1250x420.jpg">-->
                             <figcaption class="flex-caption">
                                 <h1 class="super">
                                     Integrate
@@ -39,7 +38,6 @@
                     <div class="super-hero-unit">
                         <figure>
                             <?php print '<img src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/landscapes/landscape-1-1250x420.jpg" alt="some image">'; ?>
-<!--                            <img alt="some image" src="../img/kapasoft/assets/landscapes/landscape-1-1250x420.jpg">-->
                             <figcaption class="flex-caption">
                                 <h1 class="super">
                                     Innovate
@@ -71,7 +69,6 @@
                     <div class="round-box round-medium">
                   <span class="box-inner">
                       <?php print '<img src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/landscapes/landscape-2-a-300x300.jpg" class="img-circle" alt="some image">'; ?>
-<!--                      <img alt="some image" class="img-circle" src="../img/kapasoft/assets/landscapes/landscape-2-a-300x300.jpg">-->
                     <i class="icon-heart"></i>
                   </span>
                     </div>
@@ -91,7 +88,6 @@
                     <div class="round-box round-medium">
                   <span class="box-inner">
                       <?php print '<img src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/landscapes/landscape-2-b-300x300.jpg" class="img-circle" alt="some image">'; ?>
-<!--                      <img alt="some image" class="img-circle" src="../img/kapasoft/assets/landscapes/landscape-2-b-300x300.jpg">-->
                     <i class="icon-wrench"></i>
                   </span>
                     </div>
@@ -109,7 +105,6 @@
                     <div class="round-box round-medium">
                   <span class="box-inner">
                       <?php print '<img src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/landscapes/landscape-2-c-300x300.jpg" class="img-circle" alt="some image">'; ?>
-<!--                      <img alt="some image" class="img-circle" src="../img/kapasoft/assets/landscapes/landscape-2-c-300x300.jpg">-->
                     <i class="icon-random"></i>
                   </span>
                     </div>
@@ -128,7 +123,6 @@
                     <div class="round-box round-medium">
                   <span class="box-inner">
                       <?php print '<img src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/landscapes/landscape-2-d-300x300.jpg" class="img-circle" alt="some image">'; ?>
-<!--                      <img alt="some image" class="img-circle" src="../img/kapasoft/assets/landscapes/landscape-2-d-300x300.jpg">-->
                     <i class="icon-cog"></i>
                   </span>
                     </div>

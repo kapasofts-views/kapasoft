@@ -29,9 +29,10 @@ stylesheets[all][] = css/style.css
 
 
 ; JS
-;scripts[] = js/sugar-1.3.9.min.js
-;scripts[] = js/application.js
-;scripts[] = js/socket-minnehaha.js
+scripts[] = js/lib/underscore-min.js
+scripts[] = js/lib/backbone-min.js
+;scripts[] = js/lib/bootstrap.min.js
+scripts[] = js/lib/handlebars.runtime.js
 
 settings[toggle_name] = 0
 settings[toggle_search] = 1
