@@ -144,12 +144,41 @@
         </p>
         <div class="text-center">
             <div class="btn btn-large btn-primary">
-                <a href="/contact-web-design">Lets connect &nbsp;</a>
+                Lets connect &nbsp;
                 <i class="icon-lightbulb"></i>
             </div>
         </div>
     </div>
 </section>
+<script>
+    jQuery("div.btn-primary").click(function(){jQuery("#contactin").show("slow"); });
+</script>
+<section  class="section section-padded" id="contactin" style="display:none">
+    <script type="text/javascript" src="http://kapasoft.com/repos/backbone/contact/main/contact.min.js"></script>
+    <div class="container-fluid">
+        <hr>
+        <div class="row-fluid">
+            <div class="span6" id="app-contact" >
+            </div>
+            <div class="span6 contact-details">
+                <ul class="icons">
+                    <li>
+                        <h4>
+                            <i class="icon-phone"></i>
+                            Contact details
+                        </h4>
+                        <p>
+                            Phone: +1 651-334-6333
+                            <br>
+                            Email: info@kapasoft.com
+                        </p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- Testimonials -->
 <section class="section section-alt section-padded">
     <div class="container-fluid">
@@ -203,7 +232,7 @@
                         </small>
                         <div class="round-box box-medium">
                     <span class="box-inner">
-                        <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/woman-3-300x300.jpg">'; ?>
+                        <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/man-1-300x300.jpg">'; ?>
                     </span>
                         </div>
                     </blockquote>

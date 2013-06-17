@@ -80,7 +80,6 @@
         </div>
     </div>
 </section>
- Testimonials
 <section class="section section-alt section-padded">
     <div class="container-fluid">
         <div class="section-header">
@@ -101,7 +100,7 @@
                     </blockquote>
                     <div class="round-box box-medium">
                   <span class="box-inner">
-                    <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/bk-texture-300x300.jpg">';?>
+                    <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/woman-3-300x300.jpg">';?>
                   </span>
                     </div>
                 </div>
@@ -118,7 +117,7 @@
                         </small>
                         <div class="round-box box-medium">
                     <span class="box-inner">
-                      <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/bk-texture-300x300.jpg">';?>
+                      <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/man-1-300x300.jpg">';?>
                     </span>
                         </div>
                     </blockquote>
@@ -127,14 +126,14 @@
             <li class="span4">
                 <div class="well blockquote-well">
                     <blockquote>
-                        <p>...stylish, practical and fear price</p>
+                        <p>...stylish, practical and fair price</p>
                         <small>
                             Al Winquist
                             <cite title="Source Title">AL Ideas</cite>
                         </small>
                         <div class="round-box box-medium">
                     <span class="box-inner">
-                     <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/bk-texture-300x300.jpg">';?>
+                     <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/man-3-300x300.jpg">';?>
                     </span>
                         </div>
                     </blockquote>
