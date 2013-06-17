@@ -2,7 +2,6 @@
     <div id="map"></div>
 </section>
 <!-- 404 content -->
-<a href="#" name="contact_form"></a>
 <section  class="section section-padded">
     <script type="text/javascript" src="http://kapasoft.com/repos/backbone/contact/main/contact.min.js"></script>
     <div class="container-fluid">
