@@ -35,7 +35,7 @@
                 </div>
                 <h2 class="text-center">Web Applications</h2>
                 <p class="lead text-center">
-                    With amazing designs built on sound open source frameworks, we provide the freedom and flexibility to take full control of your website and to adapt to new changes in the future.                    </p>
+                    With amazing designs built on sound, open source frameworks, we provide the freedom and flexibility to take full control of your website and to adapt to new changes in the future.
                 </p>
             </li>
             <li class="span4">
@@ -47,7 +47,7 @@
                 </div>
                 <h2 class="text-center">Real Time Features</h2>
                 <p class="lead text-center">
-                    Using cutting edge technologies, we build interactive web features to improve conversion rate and increase your sales
+                    Using cutting edge technologies, we build interactive web features to improve conversion rate and increase sales
                 </p>
             </li>
             <li class="span4">
@@ -59,7 +59,7 @@
                 </div>
                 <h2 class="text-center">SaaS Integration</h2>
                 <p class="lead text-center">
-                    Integrate your application with software as service (SaaS) such as Strip, MailChimp, SalesForce and others to save your money while adding the necessary competitive advantage to succeed
+                    Integrate your application with software as service (SaaS) such as Strip, MailChimp, SalesForce and others to save money while adding the necessary competitive advantage to succeed
                 </p>
             </li>
         </ul>
@@ -80,7 +80,7 @@
                     <li>
                         <h4>
                             <i class="icon-twitter"></i>
-                            Design that has some magic in it
+                            Design that some magic
                         </h4>
                         <p>
                             Bold but beautiful. Simple but elegant. Carefully crafted to bring out your true personality and identity that resonates with your customers
@@ -92,7 +92,7 @@
                             Interactive features that takes you to the next level
                         </h4>
                         <p>
-                            Respond to your customers on your site while you are in meeting. Enable multiple customers act together real time, so they receive group discount. There are many more limited only by your imagination
+                            Respond to your customers on your site while you are busy. Enable multiple customers to act together in real time so they receive group discount. There are many more possibilities to interact with customers in real time limited only by your imagination
                         </p>
                     </li>
                     <li>
@@ -101,7 +101,7 @@
                             Leveraging existing resources to succeed
                         </h4>
                         <p>
-                            Open source platforms such as WordPress, Drupal have been solving common problems for years. We integrate, so you can take advantage of these solutions instead of reinventing the wheel on your money.
+                            Open source platforms such as WordPress, Drupal have been solving common problems for years. We integrate, so you can take advantage of these solutions instead of reinventing the wheel.
                         </p>
                     </li>
                     <li>
@@ -110,16 +110,16 @@
                             Integrate to empower
                         </h4>
                         <p>
-                            Integrating with specialized services(SaaS) such as Strip, MailChimp, SalesForce, etc will give you the competitive advantage for affordable cost necessary to succeed
+                            Integrating with specialized services (SaaS) such as Strip, MailChimp, SalesForce, etc will give you the competitive advantage necessary to succeed
                         </p>
                     </li>
                     <li>
                         <h4>
                             <i class="icon-magic"></i>
-                            SEO content management that resonate with customer
+                            SEO content management that connects with customer
                         </h4>
                         <p>
-                            Enable multiple interfaces that divides your target customer into smaller segments to provide the right feel and content relevance all of which will improve the conversion rate
+                            Enable multiple views that divide your target customer into smaller segments to provide the right feel and content relevance all of which will improve conversion rate
                         </p>
                     </li>
                 </ul>
@@ -135,12 +135,12 @@
     <div class="container-fluid">
         <div class="section-header">
             <h1>
-                Lets
-                <small class="light">Work</small>
+                We’d love
+                <small class="light">to hear</small>
             </h1>
         </div>
         <p class="lead text-center">
-            We like to hear from you. Tell us about your idea, challenge or goal. Perhaps, the solution is already available. Perhaps, the solution can be put together from libraries and plugins already implemented. We sincerely care for your success and like to help.
+            Tell us about your idea, challenge or goal. We sincerely care about your success and would like to help.
         </p>
         <div class="text-center">
             <div class="btn btn-large btn-primary">
@@ -151,7 +151,7 @@
     </div>
 </section>
 <script>
-    jQuery("div.btn-primary").click(function(){jQuery("#contactin").show("slow"); });
+    jQuery("div.btn-primary").click(function(){jQuery("#contactin").show("slow"); jQuery("#app-contact input[name='name']").focus(); });
 </script>
 <section  class="section section-padded" id="contactin" style="display:none">
     <script type="text/javascript" src="http://kapasoft.com/repos/backbone/contact/main/contact.min.js"></script>
@@ -199,7 +199,7 @@
                         </small>
                         <div class="round-box box-medium">
                     <span class="box-inner">
-                        <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/woman-1-300x300.jpg">'; ?>
+                        <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/bk-texture-300x300_4.jpg">'; ?>
                     </span>
                         </div>
                     </blockquote>
@@ -215,7 +215,7 @@
                         </small>
                         <div class="round-box box-medium">
                     <span class="box-inner">
-                        <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/man-2-300x300.jpg">'; ?>
+                        <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/bk-texture-300x300_4.jpg">'; ?>
                     </span>
                         </div>
                     </blockquote>
@@ -232,7 +232,7 @@
                         </small>
                         <div class="round-box box-medium">
                     <span class="box-inner">
-                        <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/man-1-300x300.jpg">'; ?>
+                        <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/bk-texture-300x300_4.jpg">'; ?>
                     </span>
                         </div>
                     </blockquote>

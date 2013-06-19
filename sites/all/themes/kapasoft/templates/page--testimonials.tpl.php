@@ -29,7 +29,7 @@
             <div class="span3">
                 <div class="round-box box-big">
                 <span class="box-inner">
-                 <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/woman-1-300x300.jpg">';?>
+                 <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/bk-texture-300x300_4.jpg">';?>
                 </span>
                 </div>
             </div>
@@ -73,7 +73,7 @@
             <div class="span3">
                 <div class="round-box box-big">
                 <span class="box-inner">
-                  <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/man-2-300x300.jpg">';?>
+                  <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/bk-texture-300x300_4.jpg">';?>
                 </span>
                 </div>
             </div>
@@ -100,7 +100,7 @@
                     </blockquote>
                     <div class="round-box box-medium">
                   <span class="box-inner">
-                    <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/woman-3-300x300.jpg">';?>
+                    <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/bk-texture-300x300_4.jpg">';?>
                   </span>
                     </div>
                 </div>
@@ -117,7 +117,7 @@
                         </small>
                         <div class="round-box box-medium">
                     <span class="box-inner">
-                      <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/man-1-300x300.jpg">';?>
+                      <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/bk-texture-300x300_4.jpg">';?>
                     </span>
                         </div>
                     </blockquote>
@@ -133,7 +133,7 @@
                         </small>
                         <div class="round-box box-medium">
                     <span class="box-inner">
-                     <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/man-3-300x300.jpg">';?>
+                     <?php print '<img alt="some image" class="img-circle" src="'.base_path() . path_to_theme() .'/img/kapasoft/assets/people/bk-texture-300x300_4.jpg">';?>
                     </span>
                         </div>
                     </blockquote>
