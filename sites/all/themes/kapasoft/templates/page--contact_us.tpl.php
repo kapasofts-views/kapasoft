@@ -7,12 +7,12 @@
     <div class="container-fluid">
         <div class="section-header">
             <h1>
-                We Want
+                We’d love
                 <small class="light">to Hear</small>
             </h1>
         </div>
         <p class="lead text-center">
-            We like to hear from you. Tell us about your idea, challenge or goal. We sincerely care for your success and would like to contribute.
+            Tell us about your idea, challenge or goal. We sincerely care about your success and would like to help.
         </p>
         <hr>
         <div class="row-fluid">
