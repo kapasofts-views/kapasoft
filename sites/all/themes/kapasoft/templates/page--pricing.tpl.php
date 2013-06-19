@@ -21,13 +21,13 @@
                         <small>
                             $
                         </small>
-                        998
+                        950
 
 /
                         <small>
                             $
                         </small>
-                        48
+                        45
                         <small>
                             /month
                         </small>
@@ -40,9 +40,9 @@
                         <li>Shared Cloud Hosting</li>
                         <li>Monthly Back Ups</li>
                     </ul>
-                    <a class="btn btn-primary btn-large" href="/contact-web-design#contact_form">
+                    <div class="btn btn-primary btn-large" id="standardPlan">
                         Sign Up
-                    </a>
+                    </div>
                 </div>
             </div>
             <div class="span4">
@@ -57,13 +57,13 @@
                         <small>
                             $
                         </small>
-                        1998
+                        1950
 
                         /
                         <small>
                             $
                         </small>
-                        98
+                        95
                         <small>
                             /month
                         </small>
@@ -71,16 +71,16 @@
                     <ul class="well-package-list">
                         <li>Three Designs</li>
                         <li>Up to 3 Interfaces<div><small>Drupal / WordPress / Custom</small></li>
-                        <li>1 Interactive Feature <div><small>email compain / reservations / other</small></div></li>
+                        <li>1 Interactive Feature <div><small>email campaign / reservations / other</small></div></li>
                         <li>1 SaaS Integration <div><small>ChimpMail / SalesForce / other</small></div> </li>
                         <li>Single Back Office <div><small>(app for business operations)</small></div> </li>
                         <li>Separate Instance Cloud Hosting</li>
                         <li>Monthly SEO Optimization</li>
                         <li>Weekly Back Ups</li>
                     </ul>
-                    <a class="btn btn-primary btn-large" href="/contact-web-design#contact_form">
+                    <div class="btn btn-primary btn-large" id="silverPlan">
                         Sign Up
-                    </a>
+                    </div>
                 </div>
             </div>
             <div class="span4">
@@ -92,14 +92,14 @@
                         <small>
                             $
                         </small>
-                        2998
+                        3950
 
                         /
 
                         <small>
                             $
                         </small>
-                        148
+                        145
                         <small>
                             /month
                         </small>
@@ -107,21 +107,51 @@
                     <ul class="well-package-list">
                         <li>Unlimited Designs</li>
                         <li>Unlimited Interfaces<div><small>Drupal / WordPress / Custom</small></li>
-                        <li>3 Interactive Feature <div><small>email compain / reservations / other</small></div></li>
+                        <li>3 Interactive Feature <div><small>email campaign / reservations / other</small></div></li>
                         <li>3 SaaS Integrations <div><small>ChimpMail / SalesForce / other</small></div> </li>
                         <li>Single Back Office <div><small>(app for business operations)</small></div> </li>
                         <li>Multiple Instance Cloud Hosting</li>
                         <li>Weekly SEO Optimization</li>
                         <li>Daily Back Ups</li>
                     </ul>
-                    <a class="btn btn-primary btn-large" href="/contact-web-design#contact_form">
+                    <div class="btn btn-primary btn-large" id="goldPlan">
                         Sign Up
-                    </a>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
+    <script>
+        jQuery("#silverPlan").click(function(){jQuery("#contactin").show("slow"); jQuery("#app-contact input[name='name']").focus(); });
+        jQuery("#standardPlan").click(function(){jQuery("#contactin").show("slow"); jQuery("#app-contact input[name='name']").focus();});
+        jQuery("#goldPlan").click(function(){jQuery("#contactin").show("slow"); jQuery("#app-contact input[name='name']").focus();});
+    </script>
+    <section  class="section section-padded" id="contactin" style="display:none">
+        <script type="text/javascript" src="http://kapasoft.com/repos/backbone/contact/main/contact.min.js"></script>
+        <div class="container-fluid">
+            <hr>
+            <div class="row-fluid">
+                <div class="span6" id="app-contact" >
+                </div>
+                <div class="span6 contact-details">
+                    <ul class="icons">
+                        <li>
+                            <h4>
+                                <i class="icon-phone"></i>
+                                Contact details
+                            </h4>
+                            <p>
+                                Phone: +1 651-334-6333
+                                <br>
+                                Email: info@kapasoft.com
+                            </p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
 <!-- What you get -->
 <section class="section section-padded">
     <div class="container-fluid">
@@ -143,12 +173,9 @@
             <div class="span9">
                 <h2>Freedom and Choices</h2>
                 <p class="lead">
-                    Our web solutions are developed on sound open source frameworks and platforms. With that,
-                    there is a wide variety of plugins and features already available, so you are
-                    not limited to what we only offer. In addition, each open source framework is backed up by
-                    strong community of developers who can assist you as well if you choose so. In short, while others
-                    try to lock their clients with their products to continue have the business, our web solutions provides
-                    <strong>freedom</strong> and <strong>choices</strong> to you.
+                    Our web solutions are developed on sound open source frameworks and platforms. With that, there is a wide variety of plugins
+                    and features already available. In addition, each open source framework is backed by a strong community of developers who can
+                    assist you as well if you choose. In short, our web solutions provides <strong>freedom</strong> and <strong>choices</strong> to you.
                 </p>
             </div>
         </div>
@@ -165,11 +192,8 @@
             <div class="span9">
                 <h2>Innovation to Revolutionize</h2>
                 <p class="lead">
-                    We are passionate geeks with the infinite hunger for the cutting edge technologies.
-                    We like challenges and like to be challenged. You can be ensured to receive
-                    features and products that is not only <strong>innovative</strong> but also
-                    <strong>revolutionize</strong> current ways and habits all of which to give you
-                    the necessary advantage to succeed
+                    We are geeks with a passion for cutting edge technologies. We like to be challenged. The result is products with
+                    features that <strong>innovate</strong> and <strong>revolutionize</strong>
                 </p>
             </div>
         </div>
@@ -186,11 +210,8 @@
             <div class="span9">
                 <h2>Five star rating help</h2>
                 <p class="lead">
-                    We are sincerely interested to see you succeed. To ensure your success, we
-                    continuously ask and listen your challenges and problems, so we can resolve them.
-                    From your feedback, we learn how to better serve you, so we make difference to you
-                    and your business. Reliable and on time, we provide support that let you reach the
-                    goals and dreams
+                    We are sincerely interested in your success. We listen to your challenges and issues, so we can resolve them.
+                    Reliable and on time, we provide support that lets you reach your goals and dreams
                 </p>
             </div>
         </div>

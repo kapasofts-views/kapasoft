@@ -93,8 +93,8 @@
                     </div>
                     <h3 class="text-center">Real Time Features</h3>
                     <p>
-                        Using cutting edge technologies, we build interactive web features to improve conversion rate and increase your sales
-                    <a class="more-link" href="/web-development-services">
+                        Using cutting edge technologies, we build interactive web features to improve conversion rate and increase sales
+                        <a class="more-link" href="/web-development-services">
                         <strong>
                             Read
                         </strong>
@@ -110,7 +110,7 @@
                     </div>
                     <h3 class="text-center">SaaS Integration</h3>
                     <p>
-                       Integrate your application with software as service (SaaS) such as Strip, MailChimp, SalesForce and others to save your money while adding the necessary competitive advantage to succeed
+                        Integrate your application with software as service (SaaS) such as Strip, MailChimp, SalesForce and others to save money while adding the necessary competitive advantage to succeed
                     </p>
                     <a class="more-link" href="/web-development-services">
                         <strong>
@@ -128,7 +128,7 @@
                     </div>
                     <h3 class="text-center">Innovative SEO</h3>
                     <p>
-                    Have multiple interfaces each with specific SEO strategy while tailored to different client segment all of which is easy managed from single back office application
+                        Have multiple views, each with specific SEO strategy while tailored to different client segments all of which are easily managed from single back office application
                     </p>
                     <a class="more-link" href="/web-development-services">
                         <strong>
@@ -172,11 +172,11 @@
                         <h4>
                             <a href="services.html">
                                 <i class="icon-heart"></i>
-                                Design that has some magic in it
+                                Design that has magic
                             </a>
                         </h4>
                         <p>
-                            Bold but beautiful. Simple but elegant. Carefully crafted to bring out your true personality and identity that resonates with your customers
+                            Bold but beautiful. Simple but elegant. Carefully crafted to bring out your true personality and identity that resonates with customers
                         </p>
                     </li>
                     <li>
@@ -187,7 +187,7 @@
                             </a>
                         </h4>
                         <p>
-                            Respond to your customers on your site while you are in meeting. Enable multiple customers act together real time, so they receive group discount. There are many more limited only by your imagination
+                            Respond to your customers on your site while you are busy. Enable multiple customers to act together in real time so they receive group discount. There are many more possibilities to interact with customers in real time limited only by your imagination
                         </p>
                     </li>
                     <li>
@@ -198,7 +198,7 @@
                             </a>
                         </h4>
                         <p>
-                            Open source platforms such as WordPress, Drupal have been solving common problems for years. We integrate, so you can take advantage of these solutions instead of reinventing the wheel on your money.
+                            Open source platforms such as WordPress, Drupal have been solving common problems for years. We integrate, so you can take advantage of these solutions instead of reinventing the wheel.
                         </p>
                     </li>
                     <li>
@@ -209,18 +209,18 @@
                             </a>
                         </h4>
                         <p>
-                           Integrating with specialized services(SaaS) such as Strip, MailChimp, SalesForce, etc will give you the competitive advantage for affordable cost necessary to succeed
+                            Integrating with specialized services (SaaS) such as Strip, MailChimp, SalesForce, etc will give you the competitive advantage necessary to succeed
                         </p>
                     </li>
                     <li>
                         <h4>
                             <a href="services.html">
                                 <i class="icon-leaf"></i>
-                                SEO content management that resonate with customer
+                                SEO content management that connects with customer
                             </a>
                         </h4>
                         <p>
-                            Enable multiple interfaces that divides your target customer into smaller segments to provide the right feel and content relevance all of which will improve the conversion rate
+                            Enable multiple views that divide your target customer into smaller segments to provide the right feel and content relevance all of which will improve conversion rate
                         </p>
                     </li>
                 </ul>
