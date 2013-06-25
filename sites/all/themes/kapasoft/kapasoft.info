@@ -29,6 +29,7 @@ stylesheets[all][] = css/style.css
 
 
 ; JS
+scripts[] = js/google-tracking.js
 scripts[] = js/lib/underscore-min.js
 scripts[] = js/lib/backbone-min.js
 ;scripts[] = js/lib/bootstrap.min.js
