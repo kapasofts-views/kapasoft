@@ -25,7 +25,9 @@ function trackConversion(label) {
 
 $(document).ready(function(){
     $("#app-contact").bind("click",function(event){
-        trackConversion('contact')
+        if('submitButton' == event.target.name){
+            trackConversion('contact');
+        }
     });
 });
 
