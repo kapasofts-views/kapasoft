@@ -1,4 +1,4 @@
-<section class="section section-alt">
+<section class="section section-alt" xmlns="http://www.w3.org/1999/html">
     <div class="row-fluid">
         <div class="super-hero-unit">
             <figure>
@@ -160,7 +160,7 @@
         <div class="row-fluid">
             <div class="span6" id="app-contact" >
             </div>
-            <div class="span6 contact-details">
+                <div class="span6 contact-details">
                 <ul class="icons">
                     <li>
                         <h4>
