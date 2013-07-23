@@ -1,0 +1,33 @@
+
+def user="kapasoft"
+def pass="38394815"
+def db="kapasoft_view_drupal"
+def today = new Date().format('MMMdd_yyyy')
+
+task backupFromShell(type:Exec) {
+     doFirst{println "backing up from shell..."}
+        commandLine './scripts/custom/backup-db.sh'
+   }
+
+task backup(type:Exec) {
+    doFirst{println "backing up..."}
+    executable "sh"
+    args "-c", "mysqldump -u ${user} -p${pass} ${db}>db_backup/backup_${db}-${today}.sql"
+ }
+
+ task dropTables(dependsOn: 'backup',type:Exec){
+    doFirst{println "dropping tables..."}
+    commandLine './scripts/custom/drop-tables.sh', user, pass, db
+ }
+
+ task importDb(dependsOn: 'dropTables', type:Exec){
+    doFirst{println "importing..."}
+    executable "sh"
+    args "-c", "mysql -u ${user} -p${pass} -h localhost ${db}<db_backup/${db}_import.sql"
+ }
+
+task importDbOnly(type:Exec){
+    doFirst{println "importing..."}
+    executable "sh"
+    args "-c", "mysql -u ${user} -p${pass} -h localhost ${db}<db_backup/${db}_import.sql"
+ }

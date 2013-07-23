@@ -34,10 +34,10 @@
                     </div>
                     <ul class="well-package-list">
                         <li>One Design</li>
-                        <li>Up to 1 Interface <div><small> Drupal / WordPress</small></div></li>
-                        <li>6 pages</li>
-                        <li>1 Contact Form</li>
-                        <li>Shared Cloud Hosting</li>
+                        <li>Content Management Sys<div><small> Drupal / WordPress</small></div></li>
+                        <li>5 pages</li>
+                        <li>2 Widgets<div><small> Calendar / Podcast / Gallery / Other</small></div></li>
+                        <li>1GB RAM / 10GB Storage / 10GB transfer</li>
                         <li>Monthly Back Ups</li>
                     </ul>
                     <div class="btn btn-primary btn-large" id="standardPlan">
@@ -69,12 +69,13 @@
                         </small>
                     </div>
                     <ul class="well-package-list">
-                        <li>Three Designs</li>
-                        <li>Up to 3 Interfaces<div><small>Drupal / WordPress / Custom</small></li>
-                        <li>1 Interactive Feature <div><small>email campaign / reservations / other</small></div></li>
+                        <li>Two Designs</li>
+                        <li>Content Management Sys <div><small>Drupal / WordPress / Custom</small></li>
+                        <li>8 pages</li>
+                        <li>4 Widgets <div><small>Calendar / Podcast / Gallery / Other</small></div></li>
                         <li>1 SaaS Integration <div><small>ChimpMail / SalesForce / other</small></div> </li>
                         <li>Single Back Office <div><small>(app for business operations)</small></div> </li>
-                        <li>Separate Instance Cloud Hosting</li>
+                        <li>2GB RAM / 20GB Storage / 2TB transfer</li>
                         <li>Monthly SEO Optimization</li>
                         <li>Weekly Back Ups</li>
                     </ul>
@@ -105,12 +106,13 @@
                         </small>
                     </div>
                     <ul class="well-package-list">
-                        <li>Unlimited Designs</li>
-                        <li>Unlimited Interfaces<div><small>Drupal / WordPress / Custom</small></li>
-                        <li>3 Interactive Feature <div><small>email campaign / reservations / other</small></div></li>
-                        <li>3 SaaS Integrations <div><small>ChimpMail / SalesForce / other</small></div> </li>
+                        <li>Three Designs</li>
+                        <li>Content Management Sys<div><small>Drupal / WordPress / Custom</small></li>
+                        <li>10 pages</li>
+                        <li>6 Widgets <div><small>Calendar / Podcast / Gallery / Other</small></div></li>
+                        <li>2 SaaS Integrations <div><small>ChimpMail / SalesForce / other</small></div> </li>
                         <li>Single Back Office <div><small>(app for business operations)</small></div> </li>
-                        <li>Multiple Instance Cloud Hosting</li>
+                        <li>2GB RAM / 48 GB Storage / 4TB transfer</li>
                         <li>Weekly SEO Optimization</li>
                         <li>Daily Back Ups</li>
                     </ul>

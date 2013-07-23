@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://kap.com/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://kap.com/web-solution-testimonials</loc><lastmod>2013-06-10T02:53Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://kap.com/web-application-portfolio</loc><lastmod>2013-06-09T17:22Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://kap.com/web-services-pricing</loc><lastmod>2013-06-09T17:24Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://kap.com/web-development-services</loc><lastmod>2013-06-09T17:21Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://kap.com/contact-web-design</loc><lastmod>2013-06-14T16:57Z</lastmod><changefreq>monthly</changefreq></url>
+</urlset>
